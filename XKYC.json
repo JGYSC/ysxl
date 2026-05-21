@@ -1,0 +1,19 @@
+//以下网址全部收集自网络公开免费数据，如有冒犯请至联系我们删除
+{ 
+"urls":[
+
+{"url": "https://raw.githubusercontent.com/JGYSC/-/master/%E5%88%86%E4%BA%AB.json",
+            "name": "星空影仓线路"
+        },
+
+{"url": "clan://localhost/TVBoxXKYC/星空资料/api.json",
+            "name": "星空资料本地"
+        },
+{"url": "clan://localhost/TVBoxXKYC/本地【星空影院】/api.json",
+            "name": "本地【星空影院】"
+        },
+{"url": "clan://localhost/TVBoxXKYC/本地【星空VIP】/api.json",
+            "name": "本地【星空VIP】"
+        }
+]
+}
