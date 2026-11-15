@@ -1,0 +1,32 @@
+
+{
+  "name": "星空影仓网页版全能仓库",
+  "version": "1.0",
+  "notice": "欢迎使用星空影仓网页版，资源持续更新中...",
+  "sources": [
+    {
+     "name": "✨主页✨",
+      "vodUrl": "https://mpimg.cn/down.php/f5df07a57060b6c9de5c21b3f7e03bf6.json",
+     "liveUrl": "",
+     "biliUrl": "",
+     "mvUrl": ""
+     },
+    {
+      "name": "✨星空非凡✨",
+      "vodUrl": "https://cdn.jsdelivr.net/gh/JGYSC/xkzl@main/%E6%98%9F%E7%A9%BA.json",
+     "liveUrl": "https://cdn.jsdelivr.net/gh/JGYSC/xkzl@main/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
+     "biliUrl": "https://cdn.jsdelivr.net/gh/JGYSC/xkzl@main/XKKT.json",
+     "mvUrl": "https://cdn.jsdelivr.net/gh/JGYSC/xkzl@main/xkMV.json"
+     },
+     {
+       "name":"✨星空极速✨", 
+      "vodUrl": "https://cdn.jsdelivr.net/gh/JGYSC/xkzl@main/%E6%9E%81%E9%80%9F%E8%B5%84%E6%BA%90.json",
+      "liveUrl": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+       "biliUrl": "",
+       "mvUrl": ""
+    }
+   ]
+ }
+
+
+
