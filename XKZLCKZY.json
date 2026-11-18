@@ -1,0 +1,65 @@
+
+{ 
+"urls":[
+        {
+            "url": "https://raw.giteeusercontent.com/JG131-KJ/colorful-life/raw/master/xk.json",
+            "name": "星空资料1"
+        },
+       {"url": "https://raw.giteeusercontent.com/JG131-KJ/colorful-life/raw/master/xkzlxl1.json",
+            "name": "星空资料线路1"
+        },
+    {
+            "url": "https://raw.giteeusercontent.com/JG131-KJ/colorful-life/raw/master/xk.json",
+            "name": "星空资料线路2"
+        },
+   {"url": "https://raw.giteeusercontent.com/JG131-KJ/colorful-life/raw/master/xkzlxl3.json",
+            "name": "星空资料线路3"
+        },
+      {
+            "url": "https://mpimg.cn/down.php/2cdc771c45fce06e66adbf4d30cfd6bd.json&xkzl",
+            "name": "星空资料自用"
+        },
+        {
+            "url": "https://700sjro44343.vicp.fun/240731/one/",
+            "name": "欧歌"
+        },
+        	{
+			"name": "哈基米",
+			"url": "https://17264.kstore.space/哈基米.png"
+		},
+      {
+			"name": "南风",
+			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/moyu.json",
+            "name": "摸鱼"
+        },
+        {"url": "https://mpimg.cn/down.php/9329251ff1192b618927f217a99b9bc8.&xkzl",
+            "name": "星空影仓线路2"
+        },
+   {"url": "https://www.panurl.cn/down.php/6dfee1870bac0f3cb81c468adf479674.json&xkzl",
+            "name": "星空影仓线路3"
+        },
+  {"url": "https://raw.githubusercontent.com/JGYSC/ysxl/master/xkapi.json",
+            "name": "星空影仓线路4"
+        },    
+{"url": "https://mpimg.cn/down.php/bf04cfc80630a8dde0749f5c8f79eaa3.json&xkzl",
+            "name": "星空影仓线路备用1"
+        },
+{"url": "https://raw.giteeusercontent.com/JG131-KJ/colorful-life/raw/master/xkapi.json",
+            "name": "星空影仓线路备用2"
+        },      
+{"url": "https://raw.githubusercontent.com/JGYSC/-/master/%E5%88%86%E4%BA%AB.json",
+            "name": "星空影仓线路备用3"
+        },
+{"url": "clan://localhost/TVBoxXKYC/本地【星空资料】/api.json",
+            "name": "本地【星空资料】"
+        },
+{"url": "clan://localhost/TVBoxXKYC/本地【星空影院】/api.json",
+            "name": "本地【星空影院】"
+        },
+{"url": "clan://localhost/TVBoxXKYC/本地【星空VIP】/api.json",
+            "name": "本地【星空VIP】"
+        }
+        ]
+}
